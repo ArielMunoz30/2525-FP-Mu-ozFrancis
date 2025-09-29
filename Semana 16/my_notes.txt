@@ -1,0 +1,3 @@
+Nota 1: Hoy estuve trabajando y estudiando lo aprendido en clases.
+Nota 2: Apredi que el metodo write() me permite escribir en un archivo.
+Nota 3: Y tambien que puedo leer línea por línea usando readline. Interesante -_-().
